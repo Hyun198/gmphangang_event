@@ -18,10 +18,9 @@ function App() {
 
       <main>
         {imgs.map((src, index) => (
-          <img className="imgs" key={index} src={src} alt={`당근홍보_${index + 1}`} />
+          <img className="imgs" key={index} src={src} alt={`홍보_${index + 1}`} />
         ))}
       </main>
-
 
       <footer>
 
