@@ -23,7 +23,7 @@ function App() {
       </main>
 
       <footer>
-
+        <p>&copy; 2025 CGV 김포한강. All rights reserved.</p>
       </footer>
     </div>
   );
